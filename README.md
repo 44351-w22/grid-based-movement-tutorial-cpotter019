@@ -1,5 +1,7 @@
 # Grid Based Movement Tutorial
 
+**Playable Game: https://44351-w22.github.io/grid-based-movement-tutorial-cpotter019/**
+
 ## Assets and Attributions
 
 They're squares, I made 'em
